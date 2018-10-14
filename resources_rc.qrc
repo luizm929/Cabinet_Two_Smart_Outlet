@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/">
+    <file>img/Crystal_Clear_app_kfm_home.png</file>
+    <file>img/Gohomenew.png</file>
+    <file>img/NM_State_University_logo.png</file>
+    <file>img/NMlogo_1colorstate_black.png</file>
+    <file>img/NMSU.png</file>
+    <file>img/Search_in_home.png</file>
+    <file>img/outlet.png</file>
+    <file>img/magn_glass.png</file>
+    <file>img/powIcon.png</file>
+    <file>img/Power_off_icon.png</file>
+  </qresource>
+</RCC>
